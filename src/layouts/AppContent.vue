@@ -8,16 +8,12 @@ defineProps<{
 </script>
 
 <template>
-    <div :class="{
+   <div :class="{
     'sm:ml-0': deviceType === 'mobile' && !toggleButton, 
-    'ml-64': deviceType === 'desktop' && !toggleButton,
+    'ml-0': deviceType === 'desktop' && !toggleButton,
     'tablet-class': deviceType === 'tablet' && !toggleButton }" 
     class="p-4 bg-gray-100 dark:bg-gray-800 h-screen">
-      <div class="card rounded-md p-4 bg-white dark:border dark:border-gray-700 mt-14 dark:bg-gray-800">
-        <div class="bg-white dark:bg-gray-800">
           <router-view />
-        </div>
-      </div>
    </div>
 </template>
 
