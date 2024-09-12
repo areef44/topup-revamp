@@ -3,11 +3,11 @@
         <div class="">
             <div class="my-2 mx-4 flex">
                 <span class="mdi mdi-fire text-transparent bg-clip-text bg-gradient-to-r from-red-500 via-orange-500 to-yellow-500 text-2xl"></span>
-                <p class="font-bold text-2xl mx-2">Popular Games</p>
+                <p class="font-bold text-2xl mx-2 mb-4">Popular Games</p>
             </div>
-            <div class="flex justify-center">
+            <div class="flex justify-center mb-8">
                 <div class="grid grid-cols-2 gap-x-5 gap-y-4 lg:gap-x-4 lg:gap-x-10 lg:grid-cols-3">
-                    <div class="max-w-md p-0 bg-gray-800 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+                    <div class="max-w-md p-0 bg-gray-200 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
                         <div class="flex">
                             <div class="bg-black w-1/4 rounded-l-xl">
                                 <a href="#">
@@ -15,12 +15,12 @@
                                 </a>
                             </div>
                             <div class="w-3/4 rounded-r-xl flex flex-col justify-center items-start text-center px-4">
-                                    <p class="text-sm font-semibold text-white">Mobile Legends</p>
-                                    <p class="text-md text-blue-600 font-bold">Moontoon</p>
+                                    <p class="text-xs lg:text-sm font-semibold text-black dark:text-white">Mobile Legends</p>
+                                    <p class="text-xs lg:text-sm text-blue-600 font-bold">Moontoon</p>
                             </div>
                         </div>
                     </div>
-                    <div class="max-w-md p-0 bg-gray-800 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+                    <div class="max-w-md p-0 bg-gray-200 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
                         <div class="flex">
                             <div class="bg-black w-1/4 rounded-l-xl">
                                 <a href="#">
@@ -28,12 +28,12 @@
                                 </a>
                             </div>
                             <div class="w-3/4 rounded-r-xl flex flex-col justify-center items-start text-center px-4">
-                                    <p class="text-sm font-semibold text-white">Free Fire</p>
-                                    <p class="text-md text-blue-600 font-bold">Garena</p>
+                                    <p class="text-xs lg:text-sm font-semibold text-black dark:text-white">Free Fire</p>
+                                    <p class="text-xs lg:text-sm text-blue-600 font-bold">Garena</p>
                             </div>
                         </div>
                     </div>
-                    <div class="max-w-md p-0 bg-gray-800 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+                    <div class="max-w-md p-0 bg-gray-200 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
                         <div class="flex">
                             <div class="bg-black w-1/4 rounded-l-xl">
                                 <a href="#">
@@ -41,12 +41,12 @@
                                 </a>
                             </div>
                             <div class="w-3/4 rounded-r-xl flex flex-col justify-center items-start text-center px-4">
-                                    <p class="text-sm font-semibold text-white">PUBG Mobile</p>
-                                    <p class="text-md text-blue-600 font-bold">Tencent</p>
+                                    <p class="text-xs lg:text-sm font-semibold text-black dark:text-white">PUBG Mobile</p>
+                                    <p class="text-xs lg:text-sm text-blue-600 font-bold">Tencent</p>
                             </div>
                         </div>
                     </div>
-                    <div class="max-w-md p-0 bg-gray-800 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+                    <div class="max-w-md p-0 bg-gray-200 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
                         <div class="flex">
                             <div class="bg-black w-1/4 rounded-l-xl">
                                 <a href="#">
@@ -54,12 +54,12 @@
                                 </a>
                             </div>
                             <div class="w-3/4 rounded-r-xl flex flex-col justify-center items-start text-center px-4">
-                                    <p class="text-sm font-semibold text-white">Mobile Legends</p>
-                                    <p class="text-md text-blue-600 font-bold">Moontoon</p>
+                                    <p class="text-xs lg:text-sm font-semibold text-black dark:text-white">Mobile Legends</p>
+                                    <p class="text-xs lg:text-sm text-blue-600 font-bold">Moontoon</p>
                             </div>
                         </div>
                     </div>
-                    <div class="max-w-md p-0 bg-gray-800 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+                    <div class="max-w-md p-0 bg-gray-200 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
                         <div class="flex">
                             <div class="bg-black w-1/4 rounded-l-xl">
                                 <a href="#">
@@ -67,12 +67,12 @@
                                 </a>
                             </div>
                             <div class="w-3/4 rounded-r-xl flex flex-col justify-center items-start text-center px-4">
-                                    <p class="text-sm font-semibold text-white">Mobile Legends</p>
-                                    <p class="text-md text-blue-600 font-bold">Moontoon</p>
+                                    <p class="text-xs lg:text-sm font-semibold text-black dark:text-white">Mobile Legends</p>
+                                    <p class="text-xs lg:text-sm text-blue-600 font-bold">Moontoon</p>
                             </div>
                         </div>
                     </div>
-                    <div class="max-w-md p-0 bg-gray-800 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+                    <div class="max-w-md p-0 bg-gray-200 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
                         <div class="flex">
                             <div class="bg-black w-1/4 rounded-l-xl">
                                 <a href="#">
@@ -80,8 +80,8 @@
                                 </a>
                             </div>
                             <div class="w-3/4 rounded-r-xl flex flex-col justify-center items-start text-center px-4">
-                                    <p class="text-sm font-semibold text-white">Mobile Legends</p>
-                                    <p class="text-md text-blue-600 font-bold">Moontoon</p>
+                                    <p class="text-xs lg:text-sm font-semibold text-black dark:text-white">Mobile Legends</p>
+                                    <p class="text-xs lg:text-sm text-blue-600 font-bold">Moontoon</p>
                             </div>
                         </div>
                     </div>
